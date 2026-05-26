@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfave",
+        "uuid": 423885,
+        "checksum": "8m3cxq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
